@@ -1,0 +1,1 @@
+This is the feature file for impleamting the details related to the field that are given in git bash
